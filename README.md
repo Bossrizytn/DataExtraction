@@ -2,5 +2,5 @@
 
 Financial Data Extraction Tool Using OpenAI.📊🤖
 
-#Sample
+# Sample
 ![](https://github.com/Bossrizytn/DataExtraction/blob/main/gif.gif)
